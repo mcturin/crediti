@@ -1,0 +1,6 @@
+{
+  "name": "credswap/app",
+  "require": {
+    "php": "^8.1"
+  }
+}
